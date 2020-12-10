@@ -38,7 +38,7 @@ export default class App extends React.Component {
               <th>Min.</th>
               <th>Max.</th>
               <th>Previsão</th>
-              <th>Img</th>
+              <th>Ícone</th>
             </tr>
           </thead>
           <tbody>
